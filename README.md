@@ -4,6 +4,25 @@ Team:
 Name: Abdul Aziz Marwan, NIM: 2101201024 https://github.com/zanz-byte
 Nama: Fauzi Abdul Rohim NIM: 210118020 :https://github.com/boyranger/
 
+-------------------------------------------------------------------------
+A machine learning project may not be linear, but it has a number of well known steps:
+
+Define Problem.
+Prepare Data.
+Evaluate Algorithms.
+Improve Results.
+Present Results.
+------------------------------------------------------------------------------
+Here is an overview of what we are going to cover:
+
+Installing the Python and SciPy platform.
+Loading the dataset.
+Summarizing the dataset.
+Visualizing the dataset.
+Evaluating some algorithms.
+Making some predictions.
+
+========================================================================================
 Neural Network Using Python for Clasification/Regresion/klastering
 
 Klasifikasi Bunga Iris
