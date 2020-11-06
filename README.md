@@ -1,8 +1,8 @@
 # UTS-MachineLearning
 
 Team:
-Name: Abdul Aziz Marwan, NIM: 2101201024
-Nama: Fauzi Abdul Rohim NIM: 210118020
+Name: Abdul Aziz Marwan, NIM: 2101201024 https://github.com/zanz-byte
+Nama: Fauzi Abdul Rohim NIM: 210118020 :https://github.com/boyranger/
 
 Neural Network Using Python for Clasification/Regresion/klastering
 
